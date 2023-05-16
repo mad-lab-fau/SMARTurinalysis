@@ -15,8 +15,9 @@ The used implementation of Mask R-CNN is in the **mask-rcnn** subfolder.
 
 Required python libraries can be found in requirements.txt
 
-## Getting Started
+## Related Publication
 
+M. Flaucher et al., "Smartphone-Based Colorimetric Analysis of Urine Test Strips for At-Home Prenatal Care," in IEEE Journal of Translational Engineering in Health and Medicine, vol. 10, pp. 1-9, 2022, Art no. 2800109, doi: 10.1109/JTEHM.2022.3179147.
 
 ## Authors
 
